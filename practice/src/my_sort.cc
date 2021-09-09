@@ -15,9 +15,9 @@ void quick_sort (int *array, int size) {
 }
 
 void change (int *array, int first_idx, int second_idx) {
-    int temp_chagne = *(array + first_idx);
+    int temp_change = *(array + first_idx);
 
-    *(array + frist_idx) = *(array + second_idx);
+    *(array + first_idx) = *(array + second_idx);
     *(array + second_idx) = temp_change;
 
     return;
