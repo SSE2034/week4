@@ -1,3 +1,6 @@
 lab4/src/*
 hw4/src/*.o
 hw4/src/*.out
+hw4/src/tags
+*.zip
+test/
