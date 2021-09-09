@@ -1,6 +1,6 @@
 CC = g++
-CXXFLAGS = -g -O2
-OBJS = ppm.o main.o
+CXXFLAGS = -g
+OBJS = my_sort.o main.o
 TARGET = ../bin/main.out
 
 %.o: %.cc
