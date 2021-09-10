@@ -9,6 +9,7 @@ int main (int argc, char *argv[]){
 
     if (argc != 11){
         cout << "Argument Error! - Enter 10 digits" << endl;
+        return 0;
     } else {
 
         for (int i=0; i<10; i++) {
