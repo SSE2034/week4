@@ -7,7 +7,6 @@ test/
 practice/gdb/src/*.o
 practice/gdb/src/*.out
 hw4/bin/*
-practice/gdb/src/tags
 practice/gdb/bin/*
 practice/ctag/src/tags
 practice/ctag/bin/*
