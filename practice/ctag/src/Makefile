@@ -1,7 +1,7 @@
 CC = g++
 CXXFLAGS = -g -O2
-OBJS = my_sort.o main.o
-TARGET = ../bin/mainO2.out
+OBJS = addr_decoder.o main.o
+TARGET = ../bin/addr_decoder.out
 
 %.o: %.cc
 	$(CC) $(CXXFLAGS) -c $<

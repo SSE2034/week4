@@ -4,8 +4,11 @@ hw4/src/*.out
 hw4/src/tags
 *.zip
 test/
-practice/src/*.o
-practice/src/*.out
+practice/gdb/src/*.o
+practice/gdb/src/*.out
 hw4/bin/*
-practice/src/tags
-practice/bin/*
+practice/gdb/src/tags
+practice/gdb/bin/*
+practice/ctag/src/tags
+practice/ctag/bin/*
+practice/ctag/src/*.o
