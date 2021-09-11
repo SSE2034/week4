@@ -38,7 +38,7 @@ using namespace std;
  *     Ex) R : 120, G : 60, B : 35 -> R : 135, G : 195, B : 220
  *
  * (5) All output files must be loaded in ppm image viewer.
- *     Viewer Site URL : http://paulcuth.me.uk/netpbm-viewer/
+ *     Viewer Site URL : https://www.kylepaulsen.com/stuff/NetpbmViewer/
  *
  * ********************************************************************************************************/
 
