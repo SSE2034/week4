@@ -1,7 +1,7 @@
 /* ***************************************************************************************************
  * Copyright (c) 2021 Donghun-Jeong, Seokin-Hong, Sungkyunkwan Universit All Right Reserved
  *
- * - File Name : ppm
+ * - File Name : ppm.h
  * - File Type : c++ header code
  * - File Version(Last Update Date) : 1.0 (Sep. 9, 2021.)
  * - Date : Sep. 9, 2021.
