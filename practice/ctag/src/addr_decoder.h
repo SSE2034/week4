@@ -19,3 +19,4 @@ typedef struct addr_info {
 ADDR_INFO get_addr_info (ADDR input_addr);
 ADDR get_addr (ADDR_INFO info);
 void print_addr_info (ADDR_INFO info);
+void print_addr_info (ADDR addr);

@@ -26,3 +26,8 @@ void print_addr_info (ADDR_INFO info) {
 
     return;
 }
+
+void print_addr_info (ADDR addr){
+
+    print_addr_info(get_addr_info(addr));
+}
