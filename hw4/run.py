@@ -7,6 +7,6 @@ if (not os.path.isdir("./out")):
 
 for file_name in file_list:
     print file_name + " : " ,
-    cmd = "./src/main.out ./ppm/%s ./out/%s.pbm ./out/%s.pgm ./out/%s.ppm" % (file_name, file_name[:-4], file_name[:-4], file_name[:-4])
+    cmd = "./bin/main.out ./ppm/%s ./out/%s.pbm ./out/%s.pgm ./out/%s.ppm" % (file_name, file_name[:-4], file_name[:-4], file_name[:-4])
     os.system(cmd)
     print ""
